@@ -1,4 +1,4 @@
 Members: 
-FM Ross Palencia
-J. Seth Dylan Mariano
+FM Ross Palencia,
+J. Seth Dylan Mariano,
 Joshua Neron Singson
